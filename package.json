@@ -1,6 +1,6 @@
 {
   "name": "@codedependant/test-core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "simple function for testing skyring",
   "main": "index.js",
   "scripts": {
